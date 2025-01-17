@@ -4,7 +4,7 @@ The objective of this homework is to perform an ETL task to extract the data fro
 
 Schema and visio
 -
-![image](https://github.com/user-attachments/assets/5d69a6ee-d825-4baa-9dc2-8a8ff33285e9)
+![image](https://github.com/user-attachments/assets/f1f52ec0-f937-4a20-ad7f-506a245e419d)
 
 Steps
 -
